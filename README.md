@@ -42,7 +42,7 @@ if you see some intermittent failures when issuing a series of requests in quick
 
 To run the command line interface:
 
-    $ python main.py
+    $ python cli.py
 
 NOTES:
 -   You may need to substitute `python` in this command with the relevant alternative executable, e.g. `python3`, depending on your local setup.
